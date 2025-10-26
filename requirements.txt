@@ -5,4 +5,4 @@ statsmodels==0.14.2
 scikit-learn==1.5.2
 yfinance==0.2.48
 pmdarima==2.0.4
-tensorflow-cpu==2.15.0
+
